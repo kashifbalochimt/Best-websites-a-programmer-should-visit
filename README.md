@@ -273,6 +273,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
 - [Typerush](https://www.typerush.com/): Increase typing speed while racing.
 - [IT-Tools](https://it-tools.tech/): Collection of handy online tools for developers.
+- thecurrentdate.com : Today's date in every common format, ISO week number, day of the year, days left, world clock and 40+ free date/time tools — all in the browser, no sign-up.
 
 
 <div align="right">
